@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "bytes",
+    "License": "Apache License V2.0, MIT",
+    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "Version Number": "1.1.0",
+    "Owner": "xuelei3@huawei.com",
+    "Upstream URL": "https://github.com/tokio-rs/bytes",
+    "Description": "Types and traits for working with bytes."
+  }
+]
