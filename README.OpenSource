@@ -7,5 +7,5 @@
     "Owner": "xuelei3@huawei.com",
     "Upstream URL": "https://github.com/tokio-rs/bytes",
     "Description": "Types and traits for working with bytes."
-  }mio
+  }
 ]
